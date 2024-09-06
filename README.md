@@ -6,4 +6,5 @@ Insights generated from the above report can then be used to take actions that m
 expenditure in future months.
 
 This is a Power BI project. The project is presently ongoing.
-A demo of the project is available in the 'Home Expense Demo.mp4' video.
+A demo of the project is available in the 'Home Expense Demo.mp4' video. The video demo can also be accessed
+via the link - https://bit.ly/HomeExpenseDemo.
